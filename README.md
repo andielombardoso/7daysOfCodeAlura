@@ -13,7 +13,7 @@ Minhas soluções para o 7 days Of Code - Lógica JS!
 
 ## Desafio 7 days Of Code - Lógica de Programação JS
 
-Foram 7 desafios, e estou muito feliz em poder compartilhar as minhas soluções. 
+Foram 7 desafios, fui desafiada, me superei e estou muito feliz em poder compartilhar as minhas soluções. 
 
 * Lógica JS 1/7: Operações Booleanas
 
